@@ -2,7 +2,7 @@ my name is Dmitry,
 - have a radio & electronics Engineer's degree
 - mostly worked as industrial automation high level designer (10+)
 - currently a developer with TS and postgres in on-line gambling (5 years)
-
+- [full_cv](https://github.com/DmitryAlCh/laTexCV)
 
 <!---
 DmitryAlCh/DmitryAlCh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
